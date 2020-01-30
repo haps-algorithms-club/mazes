@@ -26,4 +26,4 @@ This would generate 50x50 maze using Wilosn's algorithm and save its image as ma
 
 ### Wilson algorithm
 
-![Wilson](images/wilson.gif =200x200)
+<img src="https://github.com/haps-algorithms-club/mazes/blob/master/images/wilson.gif?raw=true" width="200" height="200"/>
