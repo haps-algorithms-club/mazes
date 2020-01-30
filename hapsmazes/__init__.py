@@ -1,0 +1,3 @@
+WALL = 0
+ADDED = 1
+UNVISITED = 2
